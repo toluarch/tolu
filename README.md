@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=9D4EDD&center=true&vCenter=true&repeat=true&width=800&height=70&lines=%3E+Turning+ideas+into+digital+experiences_;%3E+Building+systems+that+look+as+good+as+they+work_;%3E+Web+%E2%80%A2+Game+Systems+%E2%80%A2+Automation+%E2%80%A2+AI_;%3E+Always+learning.+Always+creating._)](https://git.io/typing-svg)
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=6A00FF" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00AEEF&label=PROFILE+VIEWS" />
+<a href="https://github.com/toluarch?tab=followers"><img src="https://img.shields.io/github/followers/toluarch?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=6A00FF" /></a>
+<img src="https://komarev.com/ghpvc/?username=toluarch&style=for-the-badge&color=00AEEF&label=PROFILE+VIEWS" />
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -75,33 +75,33 @@ const tolunay = {
 
 ## 📡 Developer Telemetry
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&ring_color=6A00FF" />
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=9D4EDD&fire=00D4FF&currStreakLabel=9D4EDD&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=toluarch&show_icons=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&ring_color=6A00FF" />
+<img width="49%" src="https://streak-stats.demolab.com?user=toluarch&hide_border=true&background=0D1117&ring=9D4EDD&fire=00D4FF&currStreakLabel=9D4EDD&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=9D4EDD&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=midnight_purple&utcOffset=3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toluarch&layout=compact&hide_border=true&title_color=9D4EDD&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toluarch&theme=midnight_purple&utcOffset=3" />
 
 <br><br>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=toluarch&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 Contribution Signal
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=9D4EDD&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Azure%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toluarch&bg_color=0D1117&color=9D4EDD&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Azure%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img width="100%" src="https://raw.githubusercontent.com/toluarch/toluarch/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 ---
 
 ## 🚀 Featured Builds
 
-<a href="https://github.com/YOUR_USERNAME/REPOSITORY_ONE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_ONE&hide_border=true&title_color=9D4EDD&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" />
+<a href="https://github.com/toluarch/REPOSITORY_ONE">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=toluarch&repo=REPOSITORY_ONE&hide_border=true&title_color=9D4EDD&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/REPOSITORY_TWO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_TWO&hide_border=true&title_color=9D4EDD&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" />
+<a href="https://github.com/toluarch/REPOSITORY_TWO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=toluarch&repo=REPOSITORY_TWO&hide_border=true&title_color=9D4EDD&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" />
 </a>
 
 ---
