@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020024,45:6A00FF,100:00D4FF&text=TOLU%20%2F%2F%20&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Digital%20Creator&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020024,45:6A00FF,100:00D4FF&text=TOLU&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Digital%20Creator&descAlignY=58&descSize=18" />
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 ## `> whoami`
 
 ```javascript
-const tolunay = {
+const tolu = {
   alias: "",
   company: "Inferno Media",
   role: "Developer & Digital Creator",
@@ -48,7 +48,7 @@ const tolunay = {
 
 ```text
 ┌──────────────────────────────┐
-│ USER     Tolunay // Azure    │
+│ USER     Tolu                │
 │ MODE     Creative            │
 │ FOCUS    Build & Improve     │
 │ COFFEE   ██████████ 100%     │
