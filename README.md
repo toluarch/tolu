@@ -2,11 +2,15 @@
 
 <div align="center">
 
+<a href="https://github.com/toluarch">
+  <img src="https://avatars.githubusercontent.com/toluarch" width="140" alt="Tolunay — toluarch" style="border-radius:50%" />
+</a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=9D4EDD&center=true&vCenter=true&repeat=true&width=800&height=70&lines=%3E+Turning+ideas+into+digital+experiences_;%3E+Building+systems+that+look+as+good+as+they+work_;%3E+Web+%E2%80%A2+Game+Systems+%E2%80%A2+Automation+%E2%80%A2+AI_;%3E+Always+learning.+Always+creating._)](https://git.io/typing-svg)
 
 <a href="https://github.com/toluarch?tab=followers"><img src="https://img.shields.io/github/followers/toluarch?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=6A00FF" /></a>
 <img src="https://komarev.com/ghpvc/?username=toluarch&style=for-the-badge&color=00AEEF&label=PROFILE+VIEWS" />
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/toluarch?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -91,27 +95,22 @@ const tolunay = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toluarch&bg_color=0D1117&color=9D4EDD&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Azure%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="100%" src="https://raw.githubusercontent.com/toluarch/toluarch/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img width="100%" src="https://raw.githubusercontent.com/toluarch/toluarch/output/github-contribution-grid-snake-dark.svg" alt="toluarch contribution snake" />
 
 ---
 
-## 🚀 Featured Builds
+## 🚀 Enter The Archive
 
-<a href="https://github.com/toluarch/REPOSITORY_ONE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=toluarch&repo=REPOSITORY_ONE&hide_border=true&title_color=9D4EDD&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/toluarch/REPOSITORY_TWO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=toluarch&repo=REPOSITORY_TWO&hide_border=true&title_color=9D4EDD&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" />
+<a href="https://github.com/toluarch?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN_SOURCE_ARCHIVE-Explore_All_Repositories-6A00FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
 ## 🌐 Establish Connection
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-6A00FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/toluarch"><img src="https://img.shields.io/badge/GitHub-toluarch-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/toluarch?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View_Projects-00AEEF?style=for-the-badge&logo=git&logoColor=white" /></a>
 
 <br><br>
 
@@ -122,4 +121,3 @@ DESIGN THE VISION  //  BUILD THE SYSTEM  //  SHIP THE EXPERIENCE
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00D4FF,55:6A00FF,100:020024" />
-
